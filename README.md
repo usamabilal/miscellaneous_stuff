@@ -1,2 +1,2 @@
-# miscellaneous_stuff
- Place to put misc stuff
+# Repository I will use to random stuff
+ And that's it
